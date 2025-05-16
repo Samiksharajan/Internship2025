@@ -1,0 +1,692 @@
+[
+    {
+        "query":"Explain the difference between GIVT and SIVT",
+        "response":"GIVT (General Invalid Traffic) and SIVT (Sophisticated Invalid Traffic) are two classifications of IVT. GIVT consists of easily detectable non-human traffic such as search engine crawlers, data center traffic, and automated scripts. SIVT involves more complex fraudulent tactics like botnets, malware-driven clicks, and human-like automation to evade detection systems.",
+        "query_type":"general_query"
+    },
+    {
+        "query":"Does ClearTrust work in real-time to prevent invalid traffic?",
+        "response":"Yes, ClearTrust analyzes data in real time to prevent invalid traffic. It continuously monitors and evaluates traffic patterns, identifying and blocking fraudulent interactions before they impact campaign performance.",
+        "query_type":"general_query"
+    },
+    {
+        "query":"How does ClearTrust prevent invalid traffic?",
+        "response":"ClearTrust utilizes real-time analysis, behavioral analytics, and machine learning to detect and block invalid traffic. It identifies anomalies, bot activity, and suspicious patterns to ensure only genuine interactions are counted in campaign metrics.",
+        "query_type":"general_query"
+    },
+    {
+        "query":"Can ClearTrust detect IVT in real-time?",
+        "response":"Yes, ClearTrust detects and prevents Invalid Traffic (IVT) in real time. It leverages AI-driven risk scoring, network reputation checks, and advanced fraud detection techniques to eliminate fraudulent interactions instantly.",
+        "query_type":"general_query"
+    },
+    {
+        "query":"Does ClearTrust offer real-time IVT protection?",
+        "response":"Yes, ClearTrust provides real-time IVT protection by continuously analyzing incoming traffic and blocking suspicious activity before it impacts campaigns.",
+        "query_type":"general_query"
+    },
+    {
+        "query": "Why is IVT harmful to ad campaigns?",
+        "response": "IVT (Invalid Traffic) is highly detrimental to ad campaigns as it distorts performance metrics, wastes ad spend, and misleads optimization strategies. Key harms include: 1) Budget wastage due to payments for non-human interactions. 2) Misleading performance metrics inflating KPIs without business value. 3) Lower ROI and poor conversion rates as IVT does not translate to real customers. 4) Ad targeting disruption caused by polluted audience data. 5) Brand safety risks from ads appearing on fraudulent sites. 6) Trust issues with ad networks due to high IVT rates. To combat IVT, use fraud detection tools, analyze traffic sources for anomalies, implement real-user validation, and blacklist suspicious domains and IPs.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is ad fraud in digital marketing?",
+        "response": "Ad fraud in digital marketing refers to deceptive techniques used to generate fake ad engagements, clicks, impressions, or conversions, typically with the intent of stealing advertising revenue. Common types include click fraud, impression fraud, bot traffic, domain spoofing, and ad stacking. Fraudsters exploit ad networks to generate non-human interactions, leading to wasted budgets and misleading performance data.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Explain the difference between GIVT and SIVT",
+        "response": "GIVT (General Invalid Traffic) and SIVT (Sophisticated Invalid Traffic) are two classifications of IVT. GIVT consists of easily detectable non-human traffic such as search engine crawlers, data center traffic, and automated scripts. SIVT involves more complex fraudulent tactics like botnets, malware-driven clicks, and human-like automation to evade detection systems.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does bot traffic affect ad spend?",
+        "response": "Bot traffic generates fake interactions with ads, leading to wasted advertising budgets. Advertisers end up paying for clicks, impressions, and conversions that do not come from real users. Additionally, bot activity skews analytics, leading to ineffective ad optimizations and misallocated resources.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What are common methods to detect click fraud?",
+        "response": "Common methods for detecting click fraud include analyzing abnormal traffic patterns, monitoring click frequency from the same IP addresses, implementing CAPTCHA challenges, using machine learning models to identify fraudulent behaviors, tracking device fingerprinting, and blocking known fraudulent IP ranges and data center proxies.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How do data center proxies impact ad campaigns?",
+        "response": "Data center proxies are often used by fraudsters to generate large volumes of automated clicks and impressions. Since these proxies mask the real origin of traffic, they make it difficult to distinguish between legitimate and fraudulent interactions. Ad networks often block known data center IP ranges to prevent IVT from affecting campaign performance.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Describe real-time bidding fraud techniques",
+        "response": "Real-time bidding (RTB) fraud techniques include domain spoofing, where fraudsters fake premium ad inventory; bid manipulation, where fraudulent bidders artificially inflate CPM rates; impression laundering, where ads are displayed on hidden or irrelevant pages; and bot-driven bidding, where automated bots simulate real-time ad engagements.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What are the challenges in detecting IVT?",
+        "response": "Challenges in detecting IVT include the evolving sophistication of fraud tactics, the use of residential proxies and VPNs to mask bot traffic, difficulty in distinguishing between automated and human interactions, false positives leading to loss of legitimate traffic, and the complexity of analyzing real-time ad interactions at scale.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Explain how fingerprinting helps in fraud detection",
+        "response": "Fingerprinting helps in fraud detection by analyzing unique device attributes such as browser version, screen resolution, installed plugins, and IP addresses to create a unique identifier. Fraud detection systems use fingerprinting to detect inconsistencies in device behavior, helping to identify bots and repeat offenders attempting to manipulate ad campaigns.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does device spoofing contribute to ad fraud?",
+        "response": "Device spoofing is a technique where fraudsters manipulate device information to appear as different users or devices. This allows them to bypass fraud detection mechanisms, generate fake ad engagements, and maximize their fraudulent earnings. It is commonly used in combination with botnets, residential proxies, and emulated environments.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What makes ClearTrust different from competitors like IPQualityScore, Anura, and DoubleVerify?",
+        "response": "ClearTrust stands out due to its highly customizable fraud detection filters, real-time detailed analytics, and an open-box approach. Unlike competitors that provide a one-size-fits-all solution, ClearTrust allows businesses to tailor fraud filters to their needs, ensuring optimal accuracy in blocking fraudulent traffic without affecting legitimate users.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust detect and prevent fraudulent traffic?",
+        "response": "ClearTrust employs over 150 advanced fraud detection filters, leveraging AI-powered analytics to identify bot traffic, click farms, device spoofing, malware threats, ad stacking, and domain spoofing. These filters work in real-time to ensure high-quality traffic for advertisers and publishers.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How seamless is the integration of ClearTrust with existing advertising platforms?",
+        "response": "ClearTrust is compatible with all major ad platforms and supports multiple integration methods, including APIs, JavaScript pixels, Google Tag Manager, Prebid filtering, and post-bid scanning. This ensures a smooth setup process for advertisers, publishers, and lead generation companies.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust ensure compliance with data privacy laws like GDPR and HIPAA?",
+        "response": "ClearTrust does not collect or store personally identifiable information (PII) or sensitive health data. Instead, it analyzes non-personal metadata such as IP addresses, browser details, and user engagement patterns to detect fraudulent traffic. This ensures full compliance with GDPR, CCPA, HIPAA, and other privacy regulations.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust help prevent lead generation fraud?",
+        "response": "ClearTrust uses real-time traffic validation to detect fake submissions, bot-generated leads, and fraudulent affiliates. It ensures only genuine, high-quality leads enter your CRM, reducing chargebacks and improving conversion rates.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What kind of analytics and reporting does ClearTrust provide?",
+        "response": "ClearTrust offers a real-time dashboard with a 30-minute refresh rate, providing insights into fraud types, traffic quality, conversion trends, and threat sources. Clients can generate custom reports to track key performance metrics.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust enhance search arbitrage and ad monetization strategies?",
+        "response": "ClearTrust ensures that bot-driven clicks and invalid traffic are blocked before they reach platforms like Google and Yahoo. This prevents account suspensions, chargebacks, and wasted ad spend, making search arbitrage campaigns more profitable.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust adapt to different industries' fraud detection needs?",
+        "response": "ClearTrust provides customized fraud filters for different industries, including healthcare, finance, lead generation, and affiliate marketing. Clients can create multiple fraud profiles for different traffic sources, optimizing detection for each vertical.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What measures does ClearTrust take to reduce false positives?",
+        "response": "Unlike competitors that over-block traffic, ClearTrust allows custom sensitivity adjustments and exception rules. Clients can analyze historical data to refine detection settings and ensure legitimate traffic isn’t mistakenly filtered.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Does ClearTrust offer a free trial?",
+        "response": "Yes. ClearTrust provides a 7-day fully-featured free trial, allowing businesses to evaluate its fraud detection capabilities before making a commitment.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Can ClearTrust detect sophisticated AI-generated bot traffic?",
+        "response": "Yes. ClearTrust leverages machine learning and behavioral analytics to detect and block AI-driven fraud, ensuring that bots mimicking human behavior are properly filtered.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust assist healthcare companies in preventing fraud?",
+        "response": "ClearTrust detects fake patient inquiries, spam leads, and fraudulent medical trial signups while ensuring compliance with HIPAA and GDPR. It verifies traffic sources in real-time without storing sensitive medical information.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust handle mobile ad fraud?",
+        "response": "ClearTrust combats fake app installs, SDK spoofing, click flooding, and invalid impressions in mobile advertising campaigns, ensuring higher quality engagement.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What protections does ClearTrust offer for Connected TV (CTV) advertising?",
+        "response": "ClearTrust blocks device spoofing, IP fraud, and invalid ad impressions in CTV advertising, ensuring ads are displayed to real users on verified devices.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust support affiliate marketing fraud prevention?",
+        "response": "ClearTrust verifies click and lead authenticity to prevent fraudulent conversions, cookie stuffing, and geo-mismatched traffic, ensuring transparent affiliate performance tracking.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Can ClearTrust track and block hidden ad placements?",
+        "response": "Yes. ClearTrust detects ad stacking, pixel stuffing, and invalid viewports to block fraudulent ad placements that artificially inflate impressions.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust prevent chargebacks from fraudulent leads?",
+        "response": "By detecting and blocking invalid traffic at the source, ClearTrust ensures that only legitimate leads are passed through, reducing chargebacks and advertiser losses.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Can ClearTrust operate as a secondary fraud verification tool?",
+        "response": "Yes. Businesses using IPQualityScore, Anura, or DoubleVerify can integrate ClearTrust as a backup verification tool to audit and validate fraud detection accuracy.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "How does ClearTrust’s AI continuously improve fraud detection?",
+        "response": "ClearTrust’s AI adapts to new fraud trends by analyzing real-time data, updating detection algorithms, and applying machine learning models to stay ahead of evolving threats.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What level of customer support does ClearTrust provide?",
+        "response": "ClearTrust offers dedicated account managers, 24/7 support for enterprise clients, and custom onboarding assistance to ensure seamless fraud detection implementation.",
+        "query_type": "general_query"
+    },
+	{
+	    "query": "What is ClearTrust?",
+	    "response": "ClearTrust is a fraud detection and prevention platform that protects businesses from invalid traffic, ad fraud, and bot activity by providing real-time analytics and fraud detection tools.",
+	    "query_type": "general_query"
+	},
+	{
+	  "query": "What is the TQI?",
+	  "response": "The Traffic Quality Index (TQI) Score is a proprietary metric designed to assess traffic quality in media buying campaigns. It helps advertisers detect fraud, analyze traffic, and optimize ad spend",
+	  "query_type": "general_query"
+    },
+    {
+      "query": "What is the Traffic Quality Index (TQI) Score?",
+      "response": "The Traffic Quality Index (TQI) Score is a proprietary metric designed to assess traffic quality in media buying campaigns. It helps advertisers detect fraud, analyze traffic, and optimize ad spend.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "How does the TQI Score help in fraud prevention?",
+      "response": "TQI Score identifies and flags fraudulent activities in real-time, protecting ad spend from being wasted on non-human traffic.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "What are the key benefits of TQI Score?",
+      "response": "The key benefits of TQI Score include brand safety and fraud protection, actionable insights for optimization, customizable risk management, and an uninterrupted user experience.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "How does TQI Score improve ad performance?",
+      "response": "TQI Score helps advertisers optimize campaigns by continuously monitoring traffic quality and blocking low-quality traffic sources, leading to better engagement and higher RoAS.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "What threat categories does TQI Score monitor?",
+      "response": "TQI Score monitors multiple threat categories, including Spoofing, Bots, Cookie Stuffing, Spam, Proxy, Compromised OS, and Off-Target Devices.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "How many filters does TQI Score use?",
+      "response": "TQI Score utilizes over 140 filters across different categories, ensuring a comprehensive assessment of traffic quality.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "Can advertisers customize TQI Score settings?",
+      "response": "Yes, advertisers can customize their risk models by selecting relevant filters and setting custom cut-off thresholds.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "How fast does TQI Score analyze traffic?",
+      "response": "Each traffic session is analyzed in real-time, with scoring completed in under 100ms to ensure no impact on user experience.",
+      "query_type": "general_query"
+    },
+    {
+      "query": "What was the impact of TQI Score in Q2 2024?",
+      "response": "apicode is RAGREPCONF",
+      "query_type": "insight_query"
+    },
+    {
+      "query": "How does TQI Score improve transparency in ad-tech?",
+      "response": "TQI Score provides advertisers with actionable insights, detailed reports, and real-time visibility into traffic sources, fostering trust between advertisers and publishers.",
+      "query_type": "general_query"
+    },
+    {
+        "query": "What is BN (Bot Network)?",
+        "response": "BN (Bot Network) is a high-risk non-human traffic source originating from bot networks, commonly used for automated fraudulent activities in digital advertising.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is ClickSpam?",
+        "response": "ClickSpam is a high-risk non-human traffic pattern characterized by bursts of automated clicks, often used to generate fraudulent ad engagements.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is an Empty Referrer (EREF)?",
+        "response": "Empty Referrer (EREF) is a high-risk trap that flags traffic coming from sources without a valid or identifiable referrer URL, indicating possible spoofing or bot-driven activity.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What are Notorious Domains (NDL)?",
+        "response": "Notorious Domains (NDL) are medium-risk sources flagged for their high percentage of invalid traffic (IVT) over the last 30 days, with varying risk levels from 30% to 80% IVT.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Spoofed Device ID Fraud (DIF) for CTV?",
+        "response": "DIF is a high-risk fraud tactic where device IDs are spoofed on Connected TV (CTV) to mask true traffic origins, often used for generating fake impressions.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Store URL Missing (MSU) for CTV?",
+        "response": "MSU is a high-risk scenario where an app running on CTV does not have a valid store URL, indicating potential fraud or unauthorized app installations.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Injected Traffic (IJT)?",
+        "response": "Injected Traffic (IJT) is a high-risk bot-generated traffic source where fraudulent injections manipulate data flow to create fake impressions or engagements.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Fake Declared UA (FUA)?",
+        "response": "Fake Declared UA (FUA) is a high-risk fraud category where user-agent strings are spoofed to bypass detection systems and simulate legitimate browsing activity.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Accidental Clicks (ADC)?",
+        "response": "Accidental Clicks (ADC) is a high-risk category where clicks occur unintentionally, often due to misleading ad placements or deceptive UI elements.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Click Spam 30 (CS30)?",
+        "response": "Click Spam 30 (CS30) is a medium-risk indicator of fraudulent click behavior, where automated systems generate low-level click spam to distort engagement metrics.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Hidden IFrame (HVIF)?",
+        "response": "Hidden IFrame (HVIF) is a high-risk traffic pattern where content is loaded in hidden iframes to generate fraudulent ad impressions.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Out of View (OOV)?",
+        "response": "Out of View (OOV) is a high-risk trap detecting non-human traffic where events are traced from off-screen areas, indicating potential ad fraud.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Geography Mismatch (GEO)?",
+        "response": "Geography Mismatch (GEO) is a high-risk fraud category where traffic originates from locations not targeted by the ad campaign, often due to VPNs or proxy usage.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Virtual Private Network (VPN) Fraud?",
+        "response": "VPN-based fraud allows fraudulent users to mask their real location using VPNs, exclusively blocking data center IPs while allowing VPN traffic.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is an Emulated Device (RTD)?",
+        "response": "Emulated Device (RTD) is a high-risk fraud tactic where devices marked as physical exhibit signs of emulation, suggesting potential bot or automated fraud.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Ad Click Spam (ACS)?",
+        "response": "Ad Click Spam (ACS) is a medium-risk fraud category where systems calculate request frequency per client IP or device ID, flagging it if it exceeds two requests per second.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Fake Installations (FINS)?",
+        "response": "Fake Installations (FINS) is a high-risk fraud method where identical device fingerprints are used to generate bulk app installs from single IP ranges.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "What is Cookie Cutter Fraud (CUTT)?",
+        "response": "Cookie Cutter Fraud (CUTT) is a high-risk fraud type where more than ten subdomains on a domain are received in a referrer URL, indicating fake traffic.",
+        "query_type": "general_query"
+    },
+    {
+        "query": "Show me IVT detection results?",
+        "response": "days=7,apicode=OVERVIEW,dims=Threat Type,tqi=1",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Show me the overview report.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Fetch fraud detection insights.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Get an ad fraud summary report.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Retrieve the latest traffic quality overview.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Provide a report on invalid traffic trends.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Summarize the latest IVT trends.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Give me a summary of ad fraud patterns.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "What is the summary of fraudulent activities?",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Show a summary of detected bot traffic.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Summarize the traffic.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "What are the latest trends in ad fraud?",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Get an overall assessment of ad fraud risks.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Give me an overview of the most common fraud threats.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "List the top fraud trends detected recently.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "What are the key findings from the latest fraud analysis?",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Show me the overview report.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Give me an ad fraud summary report.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Retrieve the latest traffic quality overview.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Summarize the latest IVT trends.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "What is the summary of fraudulent activities?",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Give me a summary of ad fraud patterns.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Fetch a report with an overview of fraud trends.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Summarize the traffic data for fraud detection.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Provide an overview of detected bot traffic.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Show an overview of detected fraud threats.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "What is the overall fraud detection status?",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Provide an overall summary of traffic quality.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Show me an overall report on ad fraud trends.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Fetch the overall IVT analysis report.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Give me an overall summary of fraudulent activities.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Generate a report on traffic quality overview.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "What does the latest IVT trends report say?",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Analyze recent fraudulent activities summary.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Summarize high-risk traffic patterns.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Provide a threat report on invalid traffic trends.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Give me a basic info summary on ad fraud.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Retrieve fraud detection insights for recent activity.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "List the key findings from the latest traffic quality analysis.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Show me the latest summary report on bot traffic.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Fetch trends in ad fraud for the last 30 days.",
+        "response": "apicode=OVERVIEW&dims=Threat Type&days=30",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Get insights into the latest threat report for my campaigns.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "My Campaigns.",
+        "response": "OVERVIEW",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Break down detected bot traffic trends by category.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "What are the common fraud threats identified recently?",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Summarize the recent high-risk traffic data.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "How has traffic quality evolved over the last month?",
+        "response": "apicode=OVERVIEW&dims=Threat Type&days=30",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Analyze recent trends in invalid traffic detection.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Give me a fraud risk assessment for my campaign.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Retrieve key fraud trends detected over the past week.",
+        "response": "apicode=OVERVIEW&dims=Threat Type&days=7",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Provide a comprehensive summary of fraudulent activities.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "List all major findings in ad fraud detection this month.",
+        "response": "apicode=OVERVIEW&dims=Threat Type&days=30",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Generate a traffic summary for recent IVT analysis.",
+        "response": "apicode=OVERVIEW&dims=Threat Type",
+        "query_type": "insight_query"
+    },
+    {
+        "query": "Welcome!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Hi there!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Hello!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Hey!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Greetings!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Good morning!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Good evening!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Good afternoon!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "What's up?",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Howdy!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Yo!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Hi there, how are you?",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Hello bot!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Hey bot!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Introduce yourself.",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Who are you?",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Tell me about yourself.",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "What's your name?",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Say hi!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    },
+    {
+        "query": "Hi Param!",
+        "response": "apicode=RAGREPCONF",
+        "query_type": "initial_query"
+    }
+]
